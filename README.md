@@ -1,3 +1,2 @@
 # class-demo
-This is a class demo
-This is a change
+Welcome to my Hello World page!
