@@ -25,6 +25,13 @@ in the HTML `<head>`.
 - Comments explaining the metadata
 - Netlify deployment
 
+## Netlify Deployment
+
+This project is deployed through Netlify and connected to the
+GitHub repository for continuous deployment. The site name and
+deployment settings were customized through the Netlify project
+configuration.
+
 ## Author
 
 Lauren Pratt
