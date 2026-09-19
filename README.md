@@ -1,4 +1,4 @@
-# class-demo
+# hello-world
 # Hello World
 
 ## Description
